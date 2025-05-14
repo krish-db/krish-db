@@ -3,11 +3,8 @@
 
 # Github Contributions
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krish-db/krish-db/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krish-db/krish-db/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/krish-db/krish-db/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/krish-db/krish-db/output/snake.svg" alt="Snake animation" />
 </picture>
-###
 
 # Major Achievements:
 - **Built 300+ RESTful APIs powering a fintech platform with over 2M users.**
