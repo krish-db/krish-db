@@ -1,6 +1,9 @@
 # Professional Summary:
 **Senior Python/Django Engineer** | **Backend Developer** | with **4+ years of experience building scalable systems using Python, Django, DRF**. Proven track record in delivering high-performance APIs, deploying cloud-native applications (AWS, Docker), and **automating communication workflows for platforms serving over 2 million active users.** Skilled in **system optimisation, fraud detection logic, and CI/CD pipelines**, with a **strong foundation in clean architecture and test-driven development.**
 
+# Github Contributions
+<img src="https://raw.githubusercontent.com/krish-db/krish-db/output/snake.svg" alt="Snake animation" />
+
 # Major Achievements:
 - **Built 300+ RESTful APIs powering a fintech platform with over 2M users.**
 - **Reduced backend latency by 20% through performance tuning and architecture improvements.**
