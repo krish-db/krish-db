@@ -2,8 +2,11 @@
 **Senior Python/Django Engineer** | **Backend Developer** | with **4+ years of experience building scalable systems using Python, Django, DRF**. Proven track record in delivering high-performance APIs, deploying cloud-native applications (AWS, Docker), and **automating communication workflows for platforms serving over 2 million active users.** Skilled in **system optimisation, fraud detection logic, and CI/CD pipelines**, with a **strong foundation in clean architecture and test-driven development.**
 
 # Github Contributions
-<img src="https://raw.githubusercontent.com/krish-db/krish-db/output/snake.svg" alt="Snake animation" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krish-db/krish-db/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krish-db/krish-db/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/krish-db/krish-db/output/github-snake.svg" />
+</picture>
 ###
 
 # Major Achievements:
