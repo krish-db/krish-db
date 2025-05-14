@@ -4,6 +4,8 @@
 # Github Contributions
 <img src="https://raw.githubusercontent.com/krish-db/krish-db/output/snake.svg" alt="Snake animation" />
 
+###
+
 # Major Achievements:
 - **Built 300+ RESTful APIs powering a fintech platform with over 2M users.**
 - **Reduced backend latency by 20% through performance tuning and architecture improvements.**
